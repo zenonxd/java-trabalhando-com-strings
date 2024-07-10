@@ -1,5 +1,22 @@
 # Trabalhando com Strings
 
+## Referência: Curso de Desenvolvimento Java, Giuliana Silva Bezerra
+[Compre aqui](https://www.udemy.com/course/curso-de-desenvolvimento-java/)
+<hr>
+
+## Tópicos
+
+- [Pool de Strings](#pool-de-strings)
+- [Imutabilidade das Strings](#imutabilidade-das-strings)
+- [Strings são Arrays de Caracteres](#strings-são-arrays-de-caracteres)
+- [Acessando um Caractere Específico em String](#acessando-caracteres-específicos-na-string)
+- [Capitalizando uma String (Upper e Lower case)](#capitalizando-uma-string)
+- [Dividindo String em Palavras .split()](#dividindo-string-em-palavras)
+- [Conversão em Tipos .valueOf()](#conversão-entre-tipos)
+- [Concatenação com StringBuilder](#concatenação-com-string-builder)
+- [Formatação de String Complexas](#formação-de-string-complexas)
+<hr>
+
 Podemos inicializar uma String de duas formas:
 
 Declarando normalmente, ou usando new String("string desejada").
